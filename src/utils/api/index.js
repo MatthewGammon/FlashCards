@@ -31,7 +31,7 @@ function stripCards(deck) {
  * This function is NOT exported because it is not needed outside of this file.
  *
  * @param url
- *  the url for the request.
+ *  the url for the requst.
  * @param options
  *  any options for fetch
  * @param onCancel
