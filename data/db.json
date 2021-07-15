@@ -9,26 +9,6 @@
       "name": "React Router",
       "description": "React Router is a collection of navigational components that compose declaratively with your application.",
       "id": 2
-    },
-    {
-      "name": "Test Deck",
-      "description": "This is a test to get to the create a card screen. ",
-      "id": 3
-    },
-    {
-      "name": "sfsfg",
-      "description": "sgfsdfg",
-      "id": 4
-    },
-    {
-      "name": "adfasd",
-      "description": "asdfadf",
-      "id": 5
-    },
-    {
-      "name": "sfgsf",
-      "description": "sfdgsf",
-      "id": 6
     }
   ],
   "cards": [
@@ -61,52 +41,6 @@
       "back": "Renders the first matching child <Route> ",
       "deckId": 2,
       "id": 5
-    },
-    {
-      "cards": [],
-      "front": "b",
-      "back": "b",
-      "deckId": 1,
-      "id": 7
-    },
-    {
-      "cards": [],
-      "front": "adfadfa",
-      "back": "afdfadf",
-      "deckId": 3,
-      "id": 8
-    },
-    {
-      "front": "adsfadfa",
-      "back": "adfadf",
-      "deckId": 3,
-      "id": 9
-    },
-    {
-      "front": "adfadfasd",
-      "back": "adfadf",
-      "deckId": 3,
-      "id": 10
-    },
-    {
-      "cards": [],
-      "front": "asdasd",
-      "back": "asdasd",
-      "deckId": null,
-      "id": 11
-    },
-    {
-      "cards": [],
-      "front": "adfad",
-      "back": "fadfa",
-      "deckId": 4,
-      "id": 12
-    },
-    {
-      "front": "adfadf",
-      "back": "adfadf",
-      "deckId": 4,
-      "id": 13
     }
   ]
 }
