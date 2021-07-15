@@ -6,7 +6,8 @@ function NotFound() {
     <div>
       <div className="NotFound">
         <div className="jumbotron bg-light text-dark shadow-lg">
-          <h1 className="display-2">404 Not Found!</h1>
+          <h1 className="display-3">Not Found</h1>
+
           <p className="lead font-weight-bold">
             The page you have requested does not exist. Fear not! Simply click
             the button below to navigate to the home page.
