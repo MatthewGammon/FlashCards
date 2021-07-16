@@ -1,3 +1,5 @@
+# About Thinkful-Flashcards
+Thinkful Frontend Capstone Project - Flashcard-O-Matic
 This application allows a user to create their very own deck of flashcards so that they can study effectively. 
 A new deck can be created which will in turn allow for new cards to be created. 
 Each card has a front side with a question and a back side that will provide the answer. 
